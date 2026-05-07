@@ -90,10 +90,12 @@ The full research paper is included in this repository:
 
 ## Repository Structure
 
-├── crops.py
-├── temperature.py
+├── Crop_recommendation.csv
 ├── Farming the Future.pdf
 ├── README.md
+├── Temperature.csv
+├── crops.py
+├── temperature.py
 
 ---
 
@@ -109,6 +111,8 @@ python crops.py
 python temperature.py
 
 ### 3. Upload the required datasets when prompted
+
+The datasets required to run this project are included in the repository.
 
 ---
 
