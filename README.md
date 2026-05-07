@@ -105,12 +105,16 @@ The full research paper is included in this repository:
 
 ### 1. Install dependencies
 
+```bash
 pip install pandas numpy matplotlib seaborn scikit-learn mlforecast
+```
 
 ### 2. Run the scripts
 
+```bash
 python crops.py
 python temperature.py
+```
 
 ### 3. Upload the required datasets when prompted
 
