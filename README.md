@@ -90,12 +90,14 @@ The full research paper is included in this repository:
 
 ## Repository Structure
 
+```bash
 ├── Crop_recommendation.csv
 ├── Farming the Future.pdf
 ├── README.md
 ├── Temperature.csv
 ├── crops.py
-├── temperature.py
+└── temperature.py
+```
 
 ---
 
